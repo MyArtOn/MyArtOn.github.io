@@ -1,0 +1,18 @@
+[
+    {
+        "src": "./public/arts/sketch_20250207.png",
+        "description" : "Study of a woman's bust"
+    },
+    {
+        "src": "./public/arts/sitted woman.png",
+        "description": "Just a sitted sad woman"
+    },
+    {
+        "src": "./public/arts/musa.png",
+        "description": "Muse"
+    },
+    {
+        "src": "./public/arts/show.png",
+        "description": "Pose study"
+    }
+]
